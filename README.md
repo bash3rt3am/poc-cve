@@ -16,3 +16,6 @@ https://codeberg.org/bluef1sher/poc-cve-2021-31755
 
 ## cve-2023-21716
 https://codeberg.org/bluef1sher/poc-cve-2023-21716
+
+## cve-2024-5057
+https://codeberg.org/bluef1sher/poc-cve-2024-5057
